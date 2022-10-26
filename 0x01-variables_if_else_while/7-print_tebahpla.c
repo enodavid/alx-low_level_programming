@@ -11,6 +11,7 @@ int main(void)
 
 	for (lettersReverse = 'z'; lettersReverse >= 'a'; lettersReverse--)
 		putchar(lettersReverse);
-		putchar('\n');
+
+	putchar('\n');
 	return (0);
 }

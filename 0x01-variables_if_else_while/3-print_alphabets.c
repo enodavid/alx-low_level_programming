@@ -14,7 +14,8 @@ int main(void)
 		putchar(smallAlphabets);
 	for (largeAlphabets = 65; largeAlphabets <= 90; largeAlphabets++)
 		putchar(largeAlphabets);
-		putchar('\n');
+
+	putchar('\n');
 
 	return (0);
 }
