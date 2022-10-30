@@ -2,6 +2,7 @@
 
 /**
  * _isalpha - Program checks if character is an alphabet
+ * @c: Character to process
  * Return: 0 - If character is not an alphabet; 1 - If character is an alphabet
  */
 

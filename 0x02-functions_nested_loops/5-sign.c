@@ -2,7 +2,10 @@
 
 /**
  * print_sign - Program displays the sign of a number
- * Return: (0) - If number is zero; (1) - If number > 0; (-1) - If number < 0
+ * @n: Number to process
+ * Return: (0) - If number is zero;
+ * (1) - If number > 0;
+ * (-1) - If number < 0
  */
 
 int print_sign(int n)
